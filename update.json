@@ -1,6 +1,6 @@
 {
 	"version": "2.9",
-	"versionCode": 2,
+	"versionCode": 3,
 	"downloadUrl": "https://github.com/topjohnwu/Magisk/releases/download/v28.1/Magisk-v28.1.apk",
 	"changelogUrl": "https://raw.githubusercontent.com/egor-white/zaprett/refs/heads/main/changelog.md"
 }
