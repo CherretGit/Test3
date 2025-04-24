@@ -2,7 +2,7 @@
   {
     "name": "host1",
     "description": "Описание хоста 1",
-    "url": "https://raw.githubusercontent.com/user/repo/main/hosts/host1/data.txt"
+    "url": "https://github.com/topjohnwu/Magisk/releases/download/v28.1/Magisk-v28.1.apk"
   },
   {
     "name": "host2",
