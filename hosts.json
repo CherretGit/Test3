@@ -2,11 +2,11 @@
   {
     "name": "list-discord.txt",
     "description": "Описание хоста 1",
-    "url": "https://github.com/topjohnwu/Magisk/releases/download/v28.1/Magisk-v28.1.apk"
+    "url": "https://raw.githubusercontent.com/CherretGit/Test3/refs/heads/main/list-discord.txt"
   },
   {
-    "name": "host2",
+    "name": "list-general.txt",
     "description": "Описание хоста 2",
-    "url": "https://raw.githubusercontent.com/user/repo/main/hosts/host2/data.txt"
+    "url": "https://raw.githubusercontent.com/CherretGit/Test3/refs/heads/main/list-general.txt"
   }
 ]
