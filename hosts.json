@@ -1,0 +1,12 @@
+[
+  {
+    "name": "host1",
+    "description": "Описание хоста 1",
+    "url": "https://raw.githubusercontent.com/user/repo/main/hosts/host1/data.txt"
+  },
+  {
+    "name": "host2",
+    "description": "Описание хоста 2",
+    "url": "https://raw.githubusercontent.com/user/repo/main/hosts/host2/data.txt"
+  }
+]
