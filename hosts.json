@@ -1,12 +1,12 @@
 [
   {
     "name": "list-discord.txt",
-    "description": "Описание хоста 1",
+    "description": "Описание ...",
     "url": "https://raw.githubusercontent.com/CherretGit/Test3/refs/heads/main/list-discord.txt"
   },
   {
     "name": "list-general.txt",
-    "description": "Описание хоста 2",
+    "description": "Описание ...",
     "url": "https://raw.githubusercontent.com/CherretGit/Test3/refs/heads/main/list-general.txt"
   }
 ]
