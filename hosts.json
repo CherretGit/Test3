@@ -2,13 +2,13 @@
   {
     "name": "list-discord.txt",
     "description": "Описание ...",
-    "hash": "5c7e12310342a89d1aa69afc00f46c17d10d261790c5e029a83cc0c498fb148a",
+    "hash": "fa0ca1ecb60eae74c343b2975280f6a6cb6cb44d965acb33ac5b9502f1c9e3dc",
     "url": "https://raw.githubusercontent.com/CherretGit/Test3/refs/heads/main/list-discord.txt"
   },
   {
     "name": "list-general.txt",
     "description": "Описание ...",
-    "hash": "fa0ca1ecb60eae74c343b2975280f6a6cb6cb44d965acb33ac5b9502f1c9e3dc1",
+    "hash": "5c7e12310342a89d1aa69afc00f46c17d10d261790c5e029a83cc0c498fb148a1",
     "url": "https://raw.githubusercontent.com/CherretGit/Test3/refs/heads/main/list-general.txt"
   }
 ]
