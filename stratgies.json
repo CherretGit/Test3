@@ -1,0 +1,30 @@
+[
+  {
+    "name": "list-youtube.txt",
+    "description": "Домены YouTube",
+    "author": "zaprett-devs",
+    "hash": "6ca6b2bac1c7ca3e06a1d8ca0c68da4f11ee233d2d6a4c6be9c6848238b7fc72",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/list-youtube.txt"
+  },
+  {
+    "name": "list-discord.txt",
+    "description": "Домены Discord",
+    "author": "zaprett-devs",
+    "hash": "fa0ca1ecb60eae74c343b2975280f6a6cb6cb44d965acb33ac5b9502f1c9e3dc",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/list-discord.txt"
+  },
+  {
+    "name": "list-extended.txt",
+    "description": "Почти всё, что РКН когда-либо блокировал",
+    "author": "zaprett-devs",
+    "hash": "5c7e12310342a89d1aa69afc00f46c17d10d261790c5e029a83cc0c498fb148a",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/list-extended.txt"
+  },
+  {
+    "name": "list-general.txt",
+    "description": "Общие списки",
+    "author": "zaprett-devs",
+    "hash": "a10824678b8bd520ba9835effb9f0cf7224b75ff9fb8cf49c77c6b9c328b9be6",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/list-general.txt"
+  }
+]
