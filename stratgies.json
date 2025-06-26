@@ -4,13 +4,15 @@
     "description": "Домены YouTube",
     "author": "zaprett-devs",
     "hash": "6ca6b2bac1c7ca3e06a1d8ca0c68da4f11ee233d2d6a4c6be9c6848238b7fc72",
+    "type": "byedpi",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/list-youtube.txt"
   },
   {
     "name": "list-discord.txt",
-    "description": "Стратегие",
+    "description": "Стратегия",
     "author": "zaprett-devs",
     "hash": "fa0ca1ecb60eae74c343b2975280f6a6cb6cb44d965acb33ac5b9502f1c9e3dc",
+    "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/list-discord.txt"
   }
 ]
