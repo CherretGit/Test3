@@ -3,16 +3,16 @@
     "name": "list-youtube.txt",
     "description": "Домены YouTube",
     "author": "zaprett-devs",
-    "hash": "6ca6b2bac1c7ca3e06a1d8ca0c68da4f11ee233d2d6a4c6be9c6848238b7fc72",
+    "hash": "cc5978f85bbffbf3737904a9afa603d86984772d526031ef2f21b5e5d49982ed",
     "type": "byedpi",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/list-youtube.txt"
+    "url": "https://github.com/CherretGit/zaprett-hosts-repo/raw/refs/heads/main/strategies/strategy-alt.txt"
   },
   {
     "name": "list-discord.txt",
     "description": "Стратегия",
     "author": "zaprett-devs",
-    "hash": "fa0ca1ecb60eae74c343b2975280f6a6cb6cb44d965acb33ac5b9502f1c9e3dc",
+    "hash": "0414a113fd41b5bac48d252c031b6612851836da4b1eea3d0690184019cc6dec",
     "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/list-discord.txt"
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/refs/heads/main/strategies/strategy-alt2.txt"
   }
 ]
